@@ -38,7 +38,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 ## Icons
 
-- [Icons8](http://icons8.com/)
+- [Icons8](https://icons8.com/)
 - [Ionicons](http://ionicons.com/)
 - [Material Icons](https://design.google.com/icons/)
 

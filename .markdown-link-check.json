@@ -7,6 +7,9 @@
       "pattern": "^https://www.npmjs.com/search"
     },
     {
+      "pattern": "^https?://icons8\\.com"
+    },
+    {
       "pattern": "^(?!https?://)"
     }
   ],
