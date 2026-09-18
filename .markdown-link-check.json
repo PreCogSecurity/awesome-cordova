@@ -1,0 +1,21 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://twitter.com"
+    },
+    {
+      "pattern": "^https://www.npmjs.com/search"
+    },
+    {
+      "pattern": "^https?://icons8\\.com"
+    },
+    {
+      "pattern": "^(?!https?://)"
+    }
+  ],
+  "replacementPatterns": [],
+  "timeout": "20s",
+  "retryCount": 2,
+  "fallbackRetryDelay": "10s",
+  "aliveStatusCodes": [200, 203, 206, 301, 302, 303, 307, 308, 429]
+}
